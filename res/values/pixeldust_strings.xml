@@ -205,5 +205,7 @@
     <string name="smart_charging_footer">Smart Charging allows you to set maximum charging level to extend the lifespan of your battery</string>
 
     <!-- Ambient category -->
-    <string name="ambient_display_category">Ambient options</string>    
+    <string name="ambient_display_category">Ambient options</string>
+    <string name="custom_ambient_display_summary">Configure advanced Ambient display</string>
+
 </resources>
